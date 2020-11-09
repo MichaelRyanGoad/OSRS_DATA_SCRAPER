@@ -1,0 +1,1712 @@
+{{External|rs=Quests/Experience rewards|rsc}}
+{{Otheruses|the rewards for all quests|the F2P rewards|Quest experience rewards (F2P)}}
+
+This page contains a list of quests which gives experience in a specific [[skill]]; each skill has its own section displaying the experience given in ascending order.
+
+There are also quests that let you choose between different skills, see [[Quest experience rewards#Skill choice|here]]. 
+
+{| class="wikitable" style="text-align:center;" align="right"
+|+Quick links
+|-
+|[[File:Attack icon.png|link=#Attack]]
+|[[File:Hitpoints icon.png|link=#Hitpoints]]
+|[[File:Mining icon.png|link=#Mining]]
+|-
+|[[File:Strength icon.png|link=#Strength]]
+|[[File:Agility icon.png|link=#Agility]]
+|[[File:Smithing icon.png|link=#Smithing]]
+|-
+|[[File:Defence icon.png|link=#Defence]]
+|[[File:Herblore icon.png|link=#Herblore]]
+|[[File:Fishing icon.png|link=#Fishing]]
+|-
+|[[File:Ranged icon.png|link=#Ranged]]
+|[[File:Thieving icon.png|link=#Thieving]]
+|[[File:Cooking icon.png|link=#Cooking]]
+|-
+|[[File:Prayer icon.png|link=#Prayer]]
+|[[File:Crafting icon.png|link=#Crafting]]
+|[[File:Firemaking icon.png|link=#Firemaking]]
+|-
+|[[File:Magic icon.png|link=#Magic]]
+|[[File:Fletching icon.png|link=#Fletching]]
+|[[File:Woodcutting icon.png|link=#Woodcutting]]
+|-
+|[[File:Runecraft icon.png|link=#Runecraft]]
+|[[File:Slayer icon.png|link=#Slayer]]
+|[[File:Farming icon.png|link=#Farming]]
+|-
+|[[File:Construction icon.png|link=#Construction]]
+|[[File:Hunter icon.png|link=#Hunter]]
+|[[File:Stats icon.png|link=#Skill choice]]
+|}
+
+==Set experience==
+This section lists the experience that is given in a specific [[skill]] post-quest completion. In addition, this section also shows the skill requirements for the listed quests.
+
+==={{plink|Agility|pic=Agility icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Agility<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Recruitment Drive]]||1,000|| -||{{SCP|Quest|12|sort=yes}}
+|[[Sir Leye]] (level 20)
+||{{TB|Asgarnia}} ||
+|-
+|[[The Depths of Despair]]||1,500||{{SCP|Agility|18|sort=yes}}||20% Hosidius Favour (Kourend)
+|[[Sand Snake]] ''(level 36)''
+||N/A||N/A
+|-
+|[[The Fremennik Trials]]||2,812|| -||-
+|Multiple med level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[Underground Pass]]||3,000|| -||{{SCP|Ranged|25|sort=yes}}
+|Multiple high level NPCs
+||||{{TB|Fremennik}} {{TB|Tirannwn}} 
+|-
+|[[Icthlarin's Little Helper]]||4,000|| -||[[Gertrude's Cat]] quest, pet cat
+|Multiple high level NPCs
+||||{{TB|Desert}} {{TB|Fremennik}} 
+|-
+|[[Cold War]]||5,000||{{SCP|Agility|30|sort=yes}}||{{SCP|Construction|34}}, {{SCP|Crafting|30}}, {{SCP|Hunter|10}}
+|1–3 [[Icelord|Icelords]] ''(level 51)''
+||{{TB|Fremennik}} {{TB|Kandarin}} ||
+|-
+|[[Royal Trouble]]||5,000||{{SCP|Agility|40|sort=yes}}||{{SCP|Slayer|40}}<br />Throne of Miscellania quest
+|[[Giant Sea Snake]] ''(level 149)''
+||{{TB|Fremennik}} ||
+|-
+|[[Grim Tales]]||6,000||{{SCP|Agility|59|sort=yes}}||{{SCP|Farming|45}}, {{SCP|herblore|52}}, {{SCP|Thieving|58}}, {{SCP|Woodcutting|71}}
+|[[Glod]] ''(level 138)''
+||{{TB|Asgarnia}} ||
+|-
+|[[Cabin Fever]]||7,000||{{SCP|Agility|42|sort=yes}}||{{SCP|crafting|45}}, {{SCP|Smithing|50}}, {{SCP|Ranged|40}}
+|[[Pirate|Pirates]] ''(level 57)''
+||||{{TB|Morytania}} 
+|-
+|[[Darkness of Hallowvale]]||7,000||{{SCP|Agility|26|sort=yes}}||{{SCP|construction|5}}, {{SCP|mining|20}}, {{SCP|thieving|22}}, {{SCP|crafting|32}}, {{SCP|magic|33}}, {{SCP|strength|40}}
+|[[Vanstrom Klause]] (level 169)
+||||{{TB|Morytania}} 
+|-
+|[[The Grand Tree]]||7,900||{{SCP|Agility|25|sort=yes}}|| -
+|[[Black demon]] ''(level 172)'' (can be safespotted)
+||||{{TB|Kandarin}} 
+|-
+|[[Troll Romance]]||8,000||{{SCP|Agility|28|sort=yes}}|| Troll Stronghold quest
+|[[Arrg]] ''(level 113)'' ([[Safespot|safespottable]])
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Making Friends with My Arm]]||10,000||{{SCP|Agility|68|sort=yes}}||{{SCP|construction|35}}, {{SCP|Firemaking|66}}, {{SCP|Mining|72}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} {{TB|Fremennik}} {{TB|Kandarin}} ||
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing King Awowogei|Awowogei subquest]])||10,000||{{SCP|Agility|48|sort=yes}}||{{SCP|cooking|70}}
+|Multiple high level NPCs
+||||{{TB|Kandarin}} 
+|-
+|[[Regicide]]||13,750||{{SCP|Agility|56|sort=yes}}|| Underground Pass quest
+|[[Tyras guard]] ''(level 110)''
+||||{{TB|Tirannwn}} 
+|-
+|[[Dragon Slayer II]]||15,000||{{SCP|Agility|60|sort=yes}}||{{SCP|Quest|200}}, {{SCP|Magic|75}}, {{SCP|Smithing|70}}, {{SCP|Mining|68}}, {{SCP|Crafting|62}}, {{SCP|Thieving|60}}, {{SCP|Construction|50}}, {{SCP|Hitpoints|50}}
+|Multiple high level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[Mourning's End Part II]]||20,000||{{SCP|Agility|56|sort=yes}}|| Mourning's End Part I quest
+|None (but powerful level 73 [[Shadow|Shadows]] are aggressive to players inside the temple)
+||||{{TB|Tirannwn}} 
+|-
+|[[Monkey Madness II]]||20,000||{{SCP|Agility|55|sort=yes}}||{{SCP|Slayer|69}}, {{SCP|Crafting|70}}, {{SCP|Hunter|60}}, {{SCP|Thieving|55}}
+|Multiple high level NPCs
+||||{{TB|Kandarin}} 
+|-
+|[[Song of the Elves]]||20,000||{{SCP|Agility|70|sort=yes}}||{{SCP|Construction|70}}, {{SCP|Farming|70}}, {{SCP|Herblore|70}}, {{SCP|Hunter|70}}, {{SCP|Mining|70}}, {{SCP|Smithing|70}}, {{SCP|Woodcutting|70}}
+|Multiple high level NPCs
+||||{{TB|Tirannwn}} 
+|-
+!Total
+!166,962
+!colspan="2"|
+!
+|}
+
+==={{plink|Attack|pic=Attack icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Attack<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[A Soul's Bane]]|| data-sort-value="40" |40<ref>Gained upon completing the Rage room during the quest.</ref>|| -||
+|Multiple level 40 to 46 enemies
+||{{TB|Misthalin}} ||
+|-
+|[[In Search of the Myreque]]||600|| -||{{SCP|Agility|25}}
+|[[Skeleton Hellhound]] ''(level 97)''
+||||{{TB|Morytania}} 
+|-
+|[[Mountain Daughter]]||1,000|| -||{{SCP|Agility|20}}
+|[[The Kendal]] ''(level 70)''
+||||{{TB|Fremennik}} 
+|-
+|[[Fairytale I - Growing Pains]]||2,000|| -|| -
+|[[Tanglefoot]] ''(level 111)''
+||||{{TB|Misthalin}} 
+|-
+|[[In Aid of the Myreque]]||2,000|| -||{{SCP|Crafting|25}}, {{SCP|Mining|15}}, {{SCP|Magic|7}}
+|Multiple med level NPCs
+||||{{TB|Morytania}} 
+|-
+|[[Tai Bwo Wannai Trio]]||2,500|| -||{{SCP|Agility|15}}, {{SCP|Cooking|30}}, {{SCP|Fishing|5}}
+|[[Monkey]] ''(level 3)''
+||{{TB|Misthalin}} {{TB|Karamja}} ||
+|-
+|[[The Fremennik Trials]]||2,812|| -||-
+|Multiple med level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[Death Plateau]]||3,000|| -|| -
+|None
+||||{{TB|Asgarnia}} {{TB|Desert}} {{TB|Fremennik}} {{TB|Kandarin}} 
+|-
+|[[Underground Pass]]||3,000|| -||{{SCP|Ranged|25}}
+|Multiple high level NPCs
+||||{{TB|Fremennik}} {{TB|Tirannwn}} 
+|-
+|[[Heroes' Quest]]||3,075|| -||{{SCP|Quest|55}}, {{SCP|Cooking|53}}, {{SCP|Fishing|53}}, {{SCP|Herblore|25}}, {{SCP|Mining|50}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} ||{{TB|Fremennik}} 
+|-
+|[[Vampyre Slayer]]||4,825|| -|| -
+|[[Count Draynor]] ''(level 34)''
+||{{TB|Misthalin}} ||
+|-
+|[[Tree Gnome Village]]||11,450|| -|| -
+|[[Khazard warlord]] ''(level 112)'' (can be safespotted)
+||||{{TB|Kandarin}} 
+|-
+|[[Fight Arena]]||12,175|| -|| -
+|Multiple high level NPCs
+||{{TB|Kandarin}} ||
+|-
+|[[Waterfall Quest]]||13,750|| -|| -
+|None
+||{{TB|Kandarin}} ||{{TB|Desert}} {{TB|Fremennik}} {{TB|Tirannwn}} 
+|-
+|[[The Grand Tree]]||18,400|| -||{{SCP|Agility|25}}
+|[[Black demon]] ''(level 172)'' (can be safespotted)
+||||{{TB|Kandarin}} 
+|-
+|[[Camelot training room]]<br/>([[Minigames|minigame]])||20,000|| -||{{SCP|Magic|45}}, {{SCP|Defence|65}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+!Total
+!100,627
+!colspan="2"|
+!
+|}
+
+==={{plink|Construction|pic=Construction icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Construction<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[The Eyes of Glouphrie]]||250||{{SCP|Construction|5|sort=yes}}||{{SCP|Magic|46}}, {{SCP|Woodcutting|45}} {{Ironman|icon}}
+|[[Evil creature]] (x6)
+||||{{TB|Kandarin}} 
+|-
+|[[Daddy's Home]]
+([[Miniquests|miniquest]])
+|400
+| -
+| -
+|None
+||{{TB|Misthalin}} ||
+|-
+|[[Tower of Life]]||1,000||{{SCP|Construction|10|sort=yes}}|| -
+|None
+||{{TB|Kandarin}} ||
+|-
+|[[Cold War]]||1,500||{{SCP|Construction|34|sort=yes}}||{{SCP|Hunter|10}}, {{SCP|Agility|30}}, {{SCP|Crafting|30}}, {{SCP|Thieving|15}}
+|1–3 [[Icelord|Icelords]] ''(level 51)''
+||{{TB|Fremennik}} {{TB|Kandarin}} ||
+|-
+|[[Darkness of Hallowvale]]||2,000||{{SCP|Construction|5|sort=yes}}||{{SCP|agility|26}}, {{SCP|mining|20}}, {{SCP|thieving|22}}, {{SCP|crafting|32}}, {{SCP|magic|33}}, {{SCP|strength|40}}
+|[[Vanstrom Klause]] (level 169)
+||||{{TB|Morytania}} 
+|-
+|[[The Great Brain Robbery]]||2,000||{{SCP|Construction|30|sort=yes}}||{{SCP|Crafting|16}}, {{SCP|Prayer|50}}
+|Multiple high level NPCs
+||||{{TB|Morytania}} 
+|-
+|[[Making Friends with My Arm]]||2,000||{{SCP|Construction|35|sort=yes}}||{{SCP|Firemaking|66}}, {{SCP|mining|72}}, {{SCP|Agility|68}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} {{TB|Fremennik}} {{TB|Kandarin}} ||
+|-
+|[[The Fremennik Isles]]||5,000||{{SCP|Construction|20|sort=yes}}||{{SCP|Agility|40}}, {{SCP|Woodcutting|56}}, {{SCP|Crafting|46}}
+|Multiple high level NPCs
+||{{TB|Fremennik}} ||
+|-
+|[[Song of the Elves]]||20,000||{{SCP|Construction|70|sort=yes}}||{{SCP|Agility|70}}, {{SCP|Farming|70}}, {{SCP|Herblore|70}}, {{SCP|Hunter|70}}, {{SCP|Mining|70}}, {{SCP|Smithing|70}}, {{SCP|Woodcutting|70}}
+|Multiple high level NPCs
+||||{{TB|Tirannwn}} 
+|-
+!Total
+!33,750
+!colspan="2"|
+!
+|}
+
+==={{plink|Cooking|pic=Cooking icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Cooking<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Cook's Assistant]]||300|| -|| -
+|None
+||{{TB|Misthalin}} ||{{TB|Kandarin}} {{TB|Morytania}} 
+|-
+|[[Rag and Bone Man]]||500|| -|| -
+|Multiple low level NPCs
+||{{TB|Misthalin}} {{TB|Karamja}} ||
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing the Mountain Dwarf|Mountain Dwarf subquest]])||1,000|| -|| -
+|[[Icefiend]] ''(level 13)'' (only if you lack [[Ice gloves]])
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing the Goblin generals|Goblin generals subquest]])||1,000|| -|| -
+|None
+||{{TB|Asgarnia}} ||
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing Pirate Pete|Pirate Pete subquest]])||1,000||{{SCP|Cooking|31|sort=yes}}|| -
+|Multiple med level NPCs
+||{{TB|Kandarin}} ||{{TB|Morytania}} 
+|-
+|[[Big Chompy Bird Hunting]]||1,470||{{SCP|Cooking|30|sort=yes}}||{{SCP|Fletching|5}}, {{SCP|Ranged|30}}
+|[[Wolf|Wolves]] ''(level 64)'' 
+||{{TB|Kandarin}} ||{{TB|Morytania}} {{TB|Tirannwn}} 
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing Skrach Uglogwee|Skrach Uglogwee subquest]])||1,500||{{SCP|Cooking|41|sort=yes}}||{{SCP|Firemaking|20}}
+|None
+||{{TB|Kandarin}} ||
+|-
+|[[Gertrude's Cat]]||1,525|| -|| -
+|None
+||{{TB|Misthalin}} ||{{TB|Desert}} {{TB|Fremennik}} 
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing the Lumbridge Guide|Lumbridge Guide subquest]])||2,500||{{SCP|Cooking|40|sort=yes}}|| -
+|None
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Heroes' Quest]]||2,825||{{SCP|Cooking|53|sort=yes}}||{{SCP|Quest|55}}, {{SCP|Fishing|53}}, {{SCP|Herblore|25}}, {{SCP|Mining|50}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} ||{{TB|Fremennik}} 
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing Sir Amik Varze|Sir Amik Varze subquest]])||4,000|| -||{{SCP|Quest|107}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} {{TB|Fremennik}} ||
+|-
+|[[Forgettable Tale...]]||5,000||{{SCP|Cooking|22|sort=yes}}||{{SCP|Farming|17}}
+|None
+||{{TB|Asgarnia}} {{TB|Fremennik}} {{TB|Kandarin}} ||
+|-
+|[[Tai Bwo Wannai Trio]]||5,000||{{SCP|Cooking|30|sort=yes}}||{{SCP|Agility|15}}, {{SCP|Fishing|5}}
+|[[Monkey]] ''(level 3)''
+||{{TB|Misthalin}} {{TB|Karamja}} ||
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing Evil Dave|Evil Dave subquest]])||7,000||{{SCP|Cooking|25|sort=yes}}|| -
+|None
+||{{TB|Desert}} ||
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing King Awowogei|Awowogei subquest]])||10,000||{{SCP|Cooking|70|sort=yes}}||{{SCP|Agility|48}}
+|Multiple high level NPCs
+||||{{TB|Kandarin}} 
+|-
+!Total
+!44,620
+!colspan="2"|
+!
+|}
+
+==={{plink|Crafting|pic=Crafting icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Crafting<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Sheep Shearer]]||150|| -|| -
+|None
+||{{TB|Misthalin}} ||
+|-
+|[[Goblin Diplomacy]]||200|| -|| -
+|None
+||{{TB|Asgarnia}} ||
+|-
+|[[Tower of Life]]||500|| -||{{SCP|Construction|10}}
+|None
+||{{TB|Kandarin}} ||
+|-
+|[[In Search of the Myreque]]||600|| -||{{SCP|Agility|25}}
+|[[Skeleton Hellhound]] ''(level 97)''
+||||{{TB|Morytania}} 
+|-
+|[[Misthalin Mystery]]||600|| -|| -
+|None
+||{{TB|Misthalin}} ||
+|-
+|[[Dwarf Cannon]]||750|| -|| -
+|None
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Animal Magnetism]]||1,000||{{SCP|Crafting|19|sort=yes}}||{{SCP|Slayer|18}}, {{SCP|Ranged|30}}, {{SCP|Woodcutting|35}}
+|None
+||{{TB|Asgarnia}} {{TB|Morytania}} ||{{TB|Fremennik}} 
+|-
+|[[The Golem]]||1,000||{{SCP|Crafting|20|sort=yes}}||{{SCP|Thieving|25}}
+|None
+||{{TB|Desert}} ||
+|-
+|[[Making History]]||1,000||{{SCP|Crafting|24|sort=yes}}|| -
+|None
+||{{TB|Fremennik}} {{TB|Kandarin}} {{TB|Morytania}} ||{{TB|Tirannwn}} 
+|-
+|[[Tears of Guthix]]||1,000||{{SCP|Crafting|20|sort=yes}}||{{SCP|Firemaking|49}}, {{SCP|Mining|20}}
+|None
+||||{{TB|Misthalin}} 
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing the Goblin generals|Goblin generals subquest]])||1,000|| -|| -
+|None
+||{{TB|Asgarnia}} ||
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing Pirate Pete|Pirate Pete subquest]])||1,000|| -||{{SCP|Cooking|31}}
+|Multiple low level NPCs
+||{{TB|Kandarin}} ||{{TB|Morytania}} 
+|-
+|[[Murder Mystery]]||1,406|| -|| -
+|None
+||{{TB|Kandarin}} ||
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing Skrach Uglogwee|Skrach Uglogwee subquest]])||1,500|| -||{{SCP|Cooking|41}}, {{SCP|Firemaking|20}}
+|None
+||{{TB|Kandarin}} ||
+|-
+|[[Cold War]]||2,000||{{SCP|Crafting|30|sort=yes}}||{{SCP|Hunter|10}}, {{SCP|Agility|30}}, {{SCP|Construction|34}}
+|1–3 [[Icelord|Icelords]] ''(level 51)''
+||{{TB|Fremennik}} {{TB|Kandarin}} ||
+|-
+|[[Enlightened Journey]]||2,000||{{SCP|Crafting|36|sort=yes}}||{{SCP|Quest|20}}, {{SCP|Firemaking|20}}, {{SCP|Farming|30}}
+|None
+||{{TB|Asgarnia}} ||{{TB|Kandarin}} 
+|-
+|[[In Aid of the Myreque]]||2,000||{{SCP|Crafting|25|sort=yes}}||{{SCP|Mining|15}}, {{SCP|Magic|7}}
+|Multiple med level NPCs
+||||{{TB|Morytania}} 
+|-
+|[[Shades of Mort'ton]]||2,000||{{SCP|Crafting|20|sort=yes}}||{{SCP|Herblore|15}}, {{SCP|Firemaking|5}}
+|5 [[Loar Shade|Loar Shades]] ''(level 40)''
+||{{TB|Morytania}} ||
+|-
+|[[Observatory Quest]]||2,250||{{SCP|Crafting|10|sort=yes}}|| -
+|[[Goblin guard]] ''(level 42)'' 
+||{{TB|Kandarin}} ||
+|-
+|[[The Giant Dwarf]]||2,500||{{SCP|Crafting|12|sort=yes}}||{{SCP|Firemaking|16}}, {{SCP|Magic|33}}, {{SCP|Thieving|14}}
+|None
+||{{TB|Asgarnia}} {{TB|Fremennik}} ||
+|-
+|[[The Fremennik Trials]]||2,812||-||-
+|Multiple med level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[The Great Brain Robbery]]||3,000||{{SCP|Crafting|16|sort=yes}}||{{SCP|Construction|30}}, {{SCP|Prayer|50}}
+|Multiple high level NPCs
+||||{{TB|Morytania}} 
+|-
+|[[Nature Spirit]]||3,000||{{SCP|Crafting|18|sort=yes}}|| -
+|3 [[Ghast|Ghasts]] ''(level 30)''
+||||{{TB|Misthalin}} 
+|-
+|[[The Slug Menace]]||3,500||{{SCP|Crafting|30|sort=yes}}||{{SCP|Runecraft|30}}, {{SCP|Slayer|30}}, {{SCP|Thieving|30}}
+|[[Slug Prince]] ''(level 62)''
+||N/A||N/A
+|-
+|[[Shilo Village]]||3,875||{{SCP|Crafting|20|sort=yes}}||{{SCP|Agility|32}}, {{SCP|Smithing|4}}
+|Multiple med level NPCs
+||||{{TB|Karamja}} 
+|-
+|[[Elemental Workshop I]]||5,000||{{SCP|Crafting|20|sort=yes}}||{{SCP|Smithing|20}}, {{SCP|Mining|20}}
+|[[Earth elemental]] ''(level 35)''
+||||{{TB|Misthalin}} 
+|-
+|[[The Fremennik Isles]]||5,000||{{SCP|Crafting|46|sort=yes}}||{{SCP|Construction|20}}, {{SCP|Agility|40}}, {{SCP|Woodcutting|56}}
+|Multiple high level NPCs
+||{{TB|Fremennik}} ||
+|-
+|[[Cabin Fever]]||7,000||{{SCP|Crafting|45|sort=yes}}||{{SCP|Agility|42}}, {{SCP|Smithing|50}}, {{SCP|Ranged|40}}
+|None
+||||{{TB|Morytania}} 
+|-
+|[[Enakhra's Lament]]||7,000||{{SCP|Crafting|50|sort=yes}}||{{SCP|Firemaking|45}}, {{SCP|Prayer|43}}, {{SCP|Magic|39}}, {{SCP|Mining|45}}
+|None
+||{{TB|Desert}} ||
+|-
+|[[Elemental Workshop II]]||7,500||{{SCP|Crafting|20|sort=yes}}||{{SCP|Magic|20}}, {{SCP|Smithing|30}}
+|(If you do not have the elemental metal bars) 2 [[Earth elemental|Earth elementals]] ''(level 35)''
+||{{TB|Kandarin}} ||
+|-
+|[[The Hand in the Sand]]||9,000||{{SCP|Crafting|49|sort=yes}}||{{SCP|Thieving|17}}
+|None
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[The Fremennik Exiles]]||15,000||{{SCP|Crafting|65|sort=yes}}||{{SCP|Slayer|60}}, {{SCP|Smithing|60}}, {{SCP|Fishing|60}}, {{SCP|Runecraft|55}}
+|Multiple high level NPCs
+||{{TB|Fremennik}} ||
+|-
+!Total
+!96,143
+!colspan="2"|
+!
+|}
+
+==={{plink|Defence|pic=Defence icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Defence<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[A Soul's Bane]]||500|| -|| -
+|Multiple level 40 to 46 enemies
+||{{TB|Misthalin}} ||
+|-
+|[[In Search of the Myreque]]||600|| -||{{SCP|Agility|25}}
+|[[Skeleton Hellhound]] ''(level 97)''
+||||{{TB|Morytania}} 
+|-
+|[[In Aid of the Myreque]]||2,000|| -||{{SCP|Crafting|25}}, {{SCP|Mining|15}}, {{SCP|Magic|7}}
+|Multiple med level NPCs
+||||{{TB|Morytania}} 
+|-
+|[[Nature Spirit]]||2,000|| -||{{SCP|Crafting|18}}(if crafting your own sickle)
+|3 [[Ghast|Ghasts]] ''(level 30)''
+||||{{TB|Misthalin}} 
+|-
+|[[What Lies Below]]||2,000|| -||{{SCP|Runecraft|35}}
+|Multiple med level NPCs
+||{{TB|Wilderness}} ||
+|-
+|[[The Fremennik Trials]]||2,812|| -||-
+|Multiple med level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[Heroes' Quest]]||3,075|| -||{{SCP|Quest|55}}, {{SCP|Cooking|53}}, {{SCP|Fishing|53}}, {{SCP|Herblore|25}}, {{SCP|Mining|50}}
+|Multiple med level NPCs
+||{{TB|Asgarnia}} ||{{TB|Fremennik}} 
+|-
+|[[Between a Rock...]]||5,000||{{SCP|Defence|30}}||{{SCP|Mining|40}}, {{SCP|Smithing|50}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} {{TB|Fremennik}} {{TB|Kandarin}} ||
+|-
+|[[Olaf's Quest]]||12,000|| -||{{SCP|Firemaking|40}}, {{SCP|Woodcutting|50}}
+|Multiple high level NPCs (safespottable)
+||{{TB|Fremennik}} ||
+|-
+|[[Holy Grail]]||15,300|| -||{{SCP|Attack|20}}
+|[[Black Knight Titan]] ''(level 120)''
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Dragon Slayer]]||18,650|| -||{{SCP|Quest|32}}
+|Multiple med level NPCs
+||||{{TB|Misthalin}} 
+|-
+|[[Camelot training room]]<br/>([[Minigames|minigame]])||20,000||{{SCP|Defence|65|sort=yes}}||{{SCP|Magic|45}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[King's Ransom]]||33,000||{{SCP|Defence|65|sort=yes}}||{{SCP|Magic|45}}
+|None
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+!Total
+!116,937
+! colspan="2" |
+!
+|}
+
+==={{plink|Farming|pic=Farming icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Farming<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing the Goblin generals|Goblin generals subquest]])||1,000|| -|| -
+|None
+||{{TB|Asgarnia}} ||
+|-
+|[[Enlightened Journey]]||3,000||{{SCP|Farming|30|sort=yes}}||{{SCP|Quest|20}}, {{SCP|Firemaking|20}}, {{SCP|Crafting|36}}
+|None
+||{{TB|Asgarnia}} ||{{TB|Kandarin}} 
+|-
+|[[Fairytale I - Growing Pains]]||3,500|| -|| -
+|[[Tanglefoot]] ''(level 111)''
+||||{{TB|Misthalin}} 
+|-
+|[[Grim Tales]]||4,000||{{SCP|Farming|45|sort=yes}}||{{SCP|Herblore|52}}, {{SCP|Thieving|58}}, {{SCP|Agility|59}}, {{SCP|Woodcutting|71}}
+|[[Glod]] ''(level 138)''
+||{{TB|Asgarnia}} ||
+|-
+|[[Forgettable Tale...]]||5,000||{{SCP|Farming|17|sort=yes}}||{{SCP|Cooking|22}}
+|None
+||{{TB|Asgarnia}} {{TB|Fremennik}} {{TB|Kandarin}} ||
+|-
+|[[Garden of Tranquillity]]||5,000||{{SCP|Farming|25|sort=yes}}|| -
+|None
+||||{{TB|Kandarin}} 
+|-
+|[[My Arm's Big Adventure]]||5,000||{{SCP|Farming|29|sort=yes}}||{{SCP|Woodcutting|10}}, {{SCP|Herblore|31}}
+|Multiple high level NPCs
+||||{{TB|Asgarnia}} 
+|-
+|[[Rum Deal]]||7,000||{{SCP|Farming|40|sort=yes}}||{{SCP|Crafting|42}}, {{SCP|Fishing|50}}, {{SCP|Prayer|47}}, {{SCP|Slayer|42}}
+|Multiple high level NPCs
+||||{{TB|Morytania}} 
+|-
+|[[Song of the Elves]]||20,000||{{SCP|Farming|70|sort=yes}}||{{SCP|Agility|70}}, {{SCP|Construction|70}}, {{SCP|Herblore|70}}, {{SCP|Hunter|70}}, {{SCP|Mining|70}}, {{SCP|Smithing|70}}, {{SCP|Woodcutting|70}}
+|Multiple high level NPCs
+||||{{TB|Tirannwn}} 
+|-
+!Total
+!53,500
+!colspan="2"|
+!
+|}
+
+==={{plink|Firemaking|pic=Firemaking icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Firemaking<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[The Giant Dwarf]]||1,500||{{SCP|Firemaking|16|sort=yes}}||{{SCP|Crafting|12}}, {{SCP|Magic|33}}, {{SCP|Thieving|14}}
+|None
+||{{TB|Asgarnia}} {{TB|Fremennik}} ||
+|-
+|[[Heroes' Quest]]||1,575|| -||{{SCP|Quest|55}}, {{SCP|Cooking|53}}, {{SCP|Fishing|53}}, {{SCP|Herblore|25}}, {{SCP|Mining|50}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} ||{{TB|Fremennik}} 
+|-
+|[[Enlightened Journey]]||4,000||{{SCP|Firemaking|20|sort=yes}}||{{SCP|Quest|20}}, {{SCP|Farming|30}}, {{SCP|Crafting|36}}
+|None
+||{{TB|Asgarnia}} ||{{TB|Kandarin}} 
+|-
+|[[Making Friends with My Arm]]||5,000||{{SCP|Firemaking|66|sort=yes}}||{{SCP|construction|35}}, {{SCP|mining|72}}, {{SCP|Agility|68}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} {{TB|Fremennik}} {{TB|Kandarin}} ||
+|-
+|[[Enakhra's Lament]]||7,000||{{SCP|Firemaking|45|sort=yes}}||{{SCP|Crafting|50}}, {{SCP|Prayer|43}}, {{SCP|Magic|39}}, {{SCP|Mining|45}}
+|None
+||{{TB|Desert}} ||
+|-
+!Total
+!19,075
+!colspan="2"|
+!
+|}
+
+==={{plink|Fishing|pic=Fishing icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Fishing<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing Pirate Pete|Pirate Pete subquest]])||1,000|| -||{{SCP|Cooking|31}}
+|Multiple low level NPCs
+||{{TB|Kandarin}} ||{{TB|Morytania}} 
+|-
+|[[Fishing Contest]]||2,437||{{SCP|Fishing|10|sort=yes}}|| -
+|None
+||{{TB|Kandarin}} ||
+|-
+|[[Heroes' Quest]]||2,725||{{SCP|Fishing|53|sort=yes}}||{{SCP|Quest|55}}, {{SCP|Cooking|53}}, {{SCP|Herblore|25}}, {{SCP|Mining|50}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} ||{{TB|Fremennik}} 
+|-
+|[[The Fremennik Trials]]||2,812|| -||-
+|Multiple med level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[Tai Bwo Wannai Trio]]||5,000||{{SCP|Fishing|5|sort=yes}}||{{SCP|Agility|15}}, {{SCP|Cooking|30}}
+|[[Monkey]] ''(level 3)''
+||{{TB|Misthalin}} {{TB|Karamja}} ||
+|-
+|[[Rum Deal]]||7,000||{{SCP|Fishing|50|sort=yes}}||{{SCP|Crafting|42}}, {{SCP|Farming|40}}, {{SCP|Prayer|47}}, {{SCP|Slayer|42}}
+|Multiple high level NPCs
+||||{{TB|Morytania}} 
+|-
+|[[Sea Slug]]||7,175|| -||{{SCP|Firemaking|30}}
+|None
+||{{TB|Kandarin}} ||
+|-
+|[[Swan Song]]||10,000||{{SCP|Fishing|62|sort=yes}}||{{SCP|Quest|100}}, {{SCP|Magic|66}}, {{SCP|Cooking|62}}, {{SCP|Smithing|45}}, {{SCP|Firemaking|42}}, {{SCP|Crafting|40}}
+|Multiple high level NPCs
+||||{{TB|Kandarin}} 
+|-
+!Total
+!38,149
+!colspan="2"|
+!
+|}
+
+==={{plink|Fletching|pic=Fletching icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Fletching<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Big Chompy Bird Hunting]]||262||{{SCP|Fletching|5|sort=yes}}||{{SCP|Ranged|30}}, {{SCP|Cooking|30}}
+|[[Wolf|Wolves]] ''(level 64)'' (optional)
+||{{TB|Kandarin}} ||{{TB|Morytania}} {{TB|Tirannwn}} 
+|-
+|[[Animal Magnetism]]||1,000|| -||{{SCP|Slayer|18}}, {{SCP|Crafting|19}}, {{SCP|Ranged|30}}, {{SCP|Woodcutting|35}}
+|None
+||{{TB|Asgarnia}} {{TB|Morytania}} ||{{TB|Fremennik}} 
+|-
+|[[Zogre Flesh Eaters]]||2,000||{{SCP|Fletching|30|sort=yes}}||{{SCP|Smithing|4}}, {{SCP|Herblore|8}}, {{SCP|Ranged|30}}
+|Multiple high level NPCs
+||{{TB|Kandarin}} ||{{TB|Morytania}} 
+|-
+|[[The Fremennik Trials]]||2,812||{{SCP|Fletching|25|sort=yes}}
+|<nowiki>-</nowiki>
+|Multiple med level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[Devious Minds]]||5,000||{{SCP|Fletching|50|sort=yes}}||{{SCP|Smithing|65}}, {{SCP|Runecraft|50}}
+|[[Abyssal creature|Abyssal creatures]] level 41+ (for a large pouch)
+||{{TB|Asgarnia}} {{TB|Morytania}} {{TB|Wilderness}} ||
+|-
+|[[Temple of Ikov]]||8,000|| -||{{SCP|Thieving|42}}, {{SCP|Ranged|40}}
+|Multiple med level NPCs
+||{{TB|Kandarin}} ||{{TB|Desert}} 
+|-
+!Total
+!19,074
+!colspan="2"|
+!
+|}
+
+==={{plink|Herblore|pic=Herblore icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Herblore<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Druidic Ritual]]||250|| -|| -
+|None
+||||{{TB|Misthalin}} 
+|-
+|[[Jungle Potion]]||775||{{SCP|Herblore|3|sort=yes}}|| -
+|None
+||||{{TB|Karamja}} 
+|-
+|[[Recruitment Drive]]||1,000|| -||Black Knight's Fortress, {{SCP|Quest|12}}
+|[[Sir Leye]] (level 20)
+||{{TB|Asgarnia}} ||
+|-
+|[[Heroes' Quest]]||1,325||{{SCP|Herblore|25|sort=yes}}||{{SCP|Quest|55}}, {{SCP|Cooking|53}}, {{SCP|Fishing|53}}, {{SCP|Mining|50}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} ||{{TB|Fremennik}} 
+|-
+|[[The Dig Site]]||2,000||{{SCP|Herblore|10|sort=yes}}||{{SCP|Agility|10}}, {{SCP|Thieving|25}}
+|None
+||||{{TB|Misthalin}} 
+|-
+|[[Shades of Mort'ton]]||2,000||{{SCP|Herblore|15|sort=yes}}||{{SCP|Crafting|20}}, {{SCP|Firemaking|5}}
+|5 [[Loar Shade|Loar Shades]] ''(level 40)''
+||{{TB|Morytania}} ||
+|-
+|[[Zogre Flesh Eaters]]||2,000||{{SCP|Herblore|8|sort=yes}}||{{SCP|Smithing|4}}, {{SCP|Ranged|30}}, {{SCP|Fletching|30}}
+|Multiple high level NPCs
+||{{TB|Kandarin}} ||{{TB|Morytania}} 
+|-
+|[[Fairytale II - Cure a Queen]]||3,500||{{SCP|Herblore|57|sort=yes}}||{{SCP|Thieving|40}}, {{SCP|Farming|49}}
+|[[Gorak]] ''(level 145)''—possibly multiple (protection prayers will not work)
+||||{{TB|Misthalin}} 
+|-
+|[[Grim Tales]]||5,000||{{SCP|Herblore|52|sort=yes}}||{{SCP|Farming|45}}, {{SCP|Thieving|58}}, {{SCP|Agility|59}}, {{SCP|Woodcutting|71}}
+|[[Glod]] ''(level 138)''
+||{{TB|Asgarnia}} ||
+|-
+|[[My Arm's Big Adventure]]||10,000||{{SCP|Herblore|31|sort=yes}}||{{SCP|Woodcutting|10}}, {{SCP|Farming|29}}
+|Multiple high level NPCs
+||||{{TB|Asgarnia}} 
+|-
+|[[Eadgar's Ruse]]||11,000||{{SCP|Herblore|31|sort=yes}}|| -
+|None
+||||{{TB|Asgarnia}} {{TB|Fremennik}} 
+|-
+|[[Song of the Elves]]||20,000||{{SCP|Herblore|70|sort=yes}}||{{SCP|Agility|70}}, {{SCP|Construction|70}}, {{SCP|Farming|70}}, {{SCP|Hunter|70}}, {{SCP|Mining|70}}, {{SCP|Smithing|70}}, {{SCP|Woodcutting|70}}
+|Multiple high level NPCs
+||||{{TB|Tirannwn}} 
+|-
+!Total
+!58,850
+|}
+
+==={{plink|Hitpoints|pic=Hitpoints icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+|+ 
+|-
+!Quest
+!Experience<br/>reward
+!Hitpoints<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[A Soul's Bane]]||500|| -|| -
+|Multiple level 40 to 46 enemies
+||{{TB|Misthalin}} ||
+|-
+|[[In Search of the Myreque]]||600|| -||{{SCP|Agility|25}}
+|[[Skeleton Hellhound]] ''(level 97)''
+||||{{TB|Morytania}} 
+|-
+|[[Nature Spirit]]||2,000|| -||{{SCP|Crafting|18}}
+|3 [[Ghast|Ghasts]] ''(level 30)''
+||||{{TB|Misthalin}} 
+|-
+|[[The Fremennik Trials]]||2,812|| -||-
+|Multiple med level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[Heroes' Quest]]||3,075|| -||{{SCP|Quest|55}}, {{SCP|Cooking|53}}, {{SCP|Fishing|53}}, {{SCP|Herblore|25}}, {{SCP|Mining|50}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} ||{{TB|Fremennik}} 
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing Sir Amik Varze|Sir Amik Varze subquest]])||4,000|| -||{{SCP|Quest|107}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} {{TB|Fremennik}} ||
+|-
+|[[Grim Tales]]||5,000|| -||{{SCP|Farming|45}}, {{SCP|Herblore|52}}, {{SCP|Thieving|58}}, {{SCP|Agility|59}}, {{SCP|Woodcutting|71}}
+|[[Glod]] ''(level 138)''
+||{{TB|Asgarnia}} ||
+|-
+|[[Royal Trouble]]||5,000|| -||{{SCP|Agility|40}}, {{SCP|Slayer|40}}
+|[[Giant Sea Snake]] ''(level 149)''
+||{{TB|Fremennik}} ||
+|-
+|[[Witch's House]]||6,325|| -|| -
+|[[Witch's experiment]] ''(level 19, 30, 42 and 53)''
+||{{TB|Asgarnia}} ||
+|-
+|[[Dream Mentor]]||15,000|| -||{{SCP|Agility|32}}, {{SCP|Combat|85}}, {{SCP|Crafting|61}}, {{SCP|Defence|40}}, {{SCP|Firemaking|49}}, {{SCP|Herblore|5}}, {{SCP|Magic|65}}, {{SCP|Mining|60}}, {{SCP|Woodcutting|55}}
+|Multiple high level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[Camelot training room]]<br/>([[Minigames|minigame]])||20,000|| -||{{SCP|Magic|45}}, {{SCP|Defence|65}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Mourning's End Part I]]||25,000|| -||{{SCP|Ranged|60}}, {{SCP|Thieving|50}}
+|[[Mourner]] ''(level 11)''
+||||{{TB|Tirannwn}} 
+|-
+!Total
+!89,312
+!colspan="2"|
+!
+|}
+
+==={{plink|Hunter|pic=Hunter icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Hunter<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Natural history quiz]]<br/>([[Miniquests|miniquest]])||1,000|| -|| -
+|None
+||{{TB|Misthalin}} ||
+|-
+|[[The Ascent of Arceuus]]||1,500||{{SCP|Hunter|12|sort=yes}}||20% [[Arceuus]] [[favour]]
+|Multiple low level NPCs
+||N/A||N/A
+|-
+|[[Eagles' Peak]]||2,500||{{SCP|Hunter|27|sort=yes}}|| -
+|[[Kebbit]] ''(level 13)'' ''(optional)''
+||{{TB|Kandarin}} ||{{TB|Tirannwn}} {{TB|Wilderness}} 
+|-
+|[[Monkey Madness II]]||15,000||{{SCP|Hunter|60|sort=yes}}||{{SCP|Slayer|69}}, {{SCP|Crafting|70}}, {{SCP|Agility|55}}, {{SCP|Thieving|55}}
+|Multiple high level NPCs
+||||{{TB|Kandarin}} 
+|-
+|[[Song of the Elves]]||20,000||{{SCP|Hunter|70|sort=yes}}||{{SCP|Agility|70}}, {{SCP|Construction|70}}, {{SCP|Farming|70}}, {{SCP|Herblore|70}}, {{SCP|Mining|70}}, {{SCP|Smithing|70}}, {{SCP|Woodcutting|70}}
+|Multiple high level NPCs
+||||{{TB|Tirannwn}} 
+|-
+!Total
+!40,000
+!colspan="2"|
+!
+|}
+
+==={{plink|Magic|pic=Magic icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Magic<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Witch's Potion]]||325|| -|| -
+|[[Rat]] ''(level 1)''
+||{{TB|Asgarnia}} ||
+|-
+|[[Imp Catcher]]||875|| -|| -
+|Multiple [[Imp|imps]] ''(level 2)'' ('''optional''' unless [[Ironman Mode|ironman]])
+||{{TB|Misthalin}} ||
+|-
+|[[Fairytale I - Growing Pains]]||1,000|| -|| -
+|[[Tanglefoot]] ''(level 111)''
+||||{{TB|Misthalin}} 
+|-
+|[[Spirits of the Elid]]||1,000||{{SCP|Magic|33|sort=yes}}||{{SCP|Thieving|37}}, {{SCP|Ranged|37}}, {{SCP|Mining|37}}
+|Multiple med level NPCs
+||{{TB|Desert}} ||
+|-
+|[[The Giant Dwarf]]||1,500||{{SCP|Magic|33|sort=yes}}||{{SCP|Thieving|14}}, {{SCP|Crafting|12}}, {{SCP|Firemaking|16}}
+|None
+||{{TB|Asgarnia}} {{TB|Fremennik}} ||
+|-
+|[[The Grand Tree]]||2,150|| -||{{SCP|Agility|25}}
+|[[Black demon]] ''(level 172)'' (can be safespotted)
+||||{{TB|Kandarin}} 
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing the Lumbridge Guide|Lumbridge Guide subquest]])||2,500|| -||{{SCP|Cooking|40}}
+|None
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Horror from the Deep]]||4,662|| -||{{SCP|Agility|35}}
+|Multiple high level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[King's Ransom]]||5,000||{{SCP|Magic|45|sort=yes}}||{{SCP|Defence|65}}
+|None
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Lunar Diplomacy]]||5,000||{{SCP|Magic|65|sort=yes}}||{{SCP|Crafting|61}}, {{SCP|Defence|40}}, {{SCP|Firemaking|49}}, {{SCP|Herblore|5}}, {{SCP|Mining|60}}, {{SCP|Woodcutting|55}}
+|Multiple high level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[Enakhra's Lament]]||7,000||{{SCP|Magic|39|sort=yes}}||{{SCP|Crafting|50}}, {{SCP|Firemaking|45}}, {{SCP|Prayer|43}}, {{SCP|Mining|45}}
+|None
+||{{TB|Desert}} ||
+|-
+|[[Dream Mentor]]||10,000||{{SCP|Magic|65|sort=yes}}||{{SCP|Agility|32}}, {{SCP|Combat|85}}, {{SCP|Crafting|61}}, {{SCP|Defence|40}}, {{SCP|Firemaking|49}}, {{SCP|Herblore|5}}, {{SCP|Mining|60}}, {{SCP|Woodcutting|55}}
+|Multiple high level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[The Eyes of Glouphrie]]||12,000||{{SCP|Magic|46|sort=yes}}||{{SCP|Construction|5}}, {{SCP|Woodcutting|45}} {{Ironman|icon}}
+|[[Evil creature]] (x6)
+||||{{TB|Kandarin}} 
+|-
+|[[Swan Song]]||15,000||{{SCP|Magic|66|sort=yes}}||{{SCP|Quest|100}}, {{SCP|Cooking|62}}, {{SCP|Fishing|62}}, {{SCP|Smithing|45}}, {{SCP|Firemaking|42}}, {{SCP|Crafting|40}}
+|Multiple high level NPCs
+||||{{TB|Kandarin}} 
+|-
+|[[Watchtower]]||15,250||{{SCP|Magic|15|sort=yes}}||{{SCP|Thieving|15}}, {{SCP|Agility|25}}, {{SCP|Herblore|14}}, {{SCP|Mining|40}}
+|Multiple med level NPCs
+||||{{TB|Kandarin}} 
+|-
+|[[Desert Treasure]]||20,000||{{SCP|Magic|50|sort=yes}}||{{SCP|Thieving|53}}, {{SCP|Firemaking|50}}, {{SCP|Slayer|10}}
+|Multiple high level NPCs
+||||{{TB|Desert}} 
+|-
+!Total
+!103,262
+!colspan="2"|
+!
+|}
+
+==={{plink|Mining|pic=Mining icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Mining<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[The Forsaken Tower]]||500|| -||20% [[Lovakengj]] [[favour]]
+|None
+||N/A||N/A
+|-
+|[[Doric's Quest]]||1,300|| -|| -
+|None
+||{{TB|Asgarnia}} ||
+|-
+|[[Plague City]]||2,425|| -|| -
+|None
+||{{TB|Kandarin}} ||{{TB|Fremennik}} {{TB|Tirannwn}} 
+|-
+|[[The Giant Dwarf]]||2,500|| -||{{SCP|Thieving|14}}, {{SCP|Crafting|12}}, {{SCP|Firemaking|16}}, {{SCP|Magic|33}}
+|None
+||{{TB|Asgarnia}} {{TB|Fremennik}} ||
+|-
+|[[Heroes' Quest]]||2,575||{{SCP|Mining|50|sort=yes}}||{{SCP|Quest|55}}, {{SCP|Cooking|53}}, {{SCP|Fishing|53}}, {{SCP|Herblore|25}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} ||{{TB|Fremennik}} 
+|-
+|[[Another Slice of H.A.M.]]||3,000|| -||{{SCP|Attack|15}}, {{SCP|Prayer|25}}
+|Multiple low level NPCs
+||{{TB|Asgarnia}} {{TB|Fremennik}} ||
+|-
+|[[The Lost Tribe]]||3,000||{{SCP|Mining|17|sort=yes}}||{{SCP|Agility|13}}, {{SCP|Thieving|13}}
+|None
+||{{TB|Asgarnia}} ||
+|-
+|[[Between a Rock...]]||5,000||{{SCP|Mining|40|sort=yes}}||{{SCP|Defence|30}}, {{SCP|Smithing|50}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} {{TB|Fremennik}} {{TB|Kandarin}} ||
+|-
+|[[Enakhra's Lament]]||7,000||{{SCP|Mining|45|sort=yes}}{{Ironman|icon}}||{{SCP|Crafting|50}}, {{SCP|Firemaking|45}}, {{SCP|Prayer|43}}, {{SCP|Magic|39}}
+|None
+||{{TB|Desert}} ||
+|-
+|[[Making Friends with My Arm]]||10,000||{{SCP|Mining|72|sort=yes}}||{{SCP|construction|35}}, {{SCP|Firemaking|66}}, {{SCP|Agility|68}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} {{TB|Fremennik}} {{TB|Kandarin}} ||
+|-
+|[[The Dig Site]]||15,300|| -||{{SCP|Agility|10}}, {{SCP|Herblore|10}}, {{SCP|Thieving|25}}
+|None
+||||{{TB|Misthalin}} 
+|-
+|[[Dragon Slayer II]]||18,000||{{SCP|Mining|68|sort=yes}}||{{SCP|Quest|200}}, {{SCP|Magic|75}}, {{SCP|Smithing|70}}, {{SCP|Crafting|62}}, {{SCP|Agility|60}}, {{SCP|Thieving|60}}, {{SCP|Construction|50}}, {{SCP|Hitpoints|50}}
+|Multiple high level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[Song of the Elves]]||20,000||{{SCP|Mining|70|sort=yes}}||{{SCP|Agility|70}}, {{SCP|Construction|70}}, {{SCP|Farming|70}}, {{SCP|Herblore|70}}, {{SCP|Hunter|70}}, {{SCP|Smithing|70}}, {{SCP|Woodcutting|70}}
+|Multiple high level NPCs
+||||{{TB|Tirannwn}} 
+|-
+!Total
+!90,600
+!colspan="2"|
+!
+|}
+
+==={{plink|Prayer|pic=Prayer icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Prayer<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Rag and Bone Man]]||500|| -|| -
+|Multiple low level NPCs
+||{{TB|Misthalin}} {{TB|Karamja}} ||
+|-
+|[[Making History]]||1,000|| -|| -
+|None
+||{{TB|Fremennik}} {{TB|Kandarin}} {{TB|Morytania}} ||{{TB|Tirannwn}} 
+|-
+|[[Recruitment Drive]]||1,000|| -||{{SCP|Quest|12}}
+|[[Sir Leye]] (level 20)
+||{{TB|Asgarnia}} ||
+|-
+|[[The Restless Ghost]]||1,125|| -|| -
+|[[Skeleton]] ''(level 13)'' ''(can be avoided)''
+||||{{TB|Misthalin}} 
+|-
+|[[Priest in Peril]]||1,406|| -|| -
+|Multiple low level NPCs
+||||{{TB|Misthalin}} 
+|-
+|[[Mountain Daughter]]||2,000|| -||{{SCP|Agility|20}}
+|[[The Kendal]] ''(level 70)''
+||||{{TB|Fremennik}} 
+|-
+|[[Ghosts Ahoy]]||2,400|| -||{{SCP|Agility|25}}, {{SCP|Cooking|20}}
+|[[Giant lobster (Ghosts Ahoy)|Giant lobster]] ''(level 32)'' Can be [[Safespot|safespotted]].
+||{{TB|Morytania}} ||{{TB|Fremennik}} 
+|-
+|[[Another Slice of H.A.M.]]||3,000||{{SCP|Prayer|25}}||{{SCP|Attack|15}}
+|Multiple med level NPCs
+||{{TB|Asgarnia}} {{TB|Fremennik}} ||
+|-
+|[[Rag and Bone Man II]]||5,000|| -||{{SCP|Slayer|40}}
+|Multiple med level NPCs
+||N/A||N/A
+|-
+|[[The Great Brain Robbery]]||6,000||{{SCP|Prayer|50}}||{{SCP|Crafting|16}}, {{SCP|Construction|30}}
+|Multiple high level NPCs
+||||{{TB|Morytania}} 
+|-
+|[[Rum Deal]]||7,000||{{SCP|Prayer|47|sort=yes}}||{{SCP|Crafting|42}}, {{SCP|Fishing|50}}, {{SCP|Farming|40}}, {{SCP|Slayer|42}}
+|Multiple high level NPCs
+||||{{TB|Morytania}} 
+|-
+|[[Spirits of the Elid]]||8,000|| -||{{SCP|Thieving|37}}, {{SCP|Magic|33}}, {{SCP|Ranged|37}}, {{SCP|Mining|37}}
+|Multiple med level NPCs
+||{{TB|Desert}} ||
+|-
+|[[Swan Song]]||10,000|| -||{{SCP|Quest|100}}, {{SCP|Magic|66}}, {{SCP|Cooking|62}}, {{SCP|Fishing|62}}, {{SCP|Smithing|45}}, {{SCP|Firemaking|42}}, {{SCP|Crafting|40}}
+|Multiple high level NPCs
+||||{{TB|Kandarin}} 
+|-
+|[[Holy Grail]]||11,000|| -||{{SCP|Attack|20}}
+|[[Black Knight Titan]] ''(level 120)''
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+!Total
+!59,431
+!colspan="2"|
+!
+|}
+
+==={{plink|Ranged|pic=Ranged icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Ranged<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Big Chompy Bird Hunting]]||735||{{SCP|Ranged|30|sort=yes}}||{{SCP|Fletching|5}}, {{SCP|Cooking|30}}
+|[[Wolf|Wolves]] ''(level 64)'' (optional)
+||{{TB|Kandarin}} ||{{TB|Morytania}} {{TB|Tirannwn}} 
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing Skrach Uglogwee|Skrach Uglogwee subquest]])||1,500||{{SCP|Ranged|30|sort=yes}}||{{SCP|Cooking|41}}, {{SCP|Firemaking|20}}
+|None
+||{{TB|Kandarin}} ||
+|-
+|[[Death to the Dorgeshuun]]||2,000|| -||{{SCP|Thieving|23}}, {{SCP|Agility|23}}
+|Multiple low level NPCs
+||{{TB|Asgarnia}} ||
+|-
+|[[Zogre Flesh Eaters]]||2,000||{{SCP|Ranged|30|sort=yes}}||{{SCP|Smithing|4}}, {{SCP|Herblore|8}}
+|Multiple high level NPCs
+||{{TB|Kandarin}} ||{{TB|Morytania}} 
+|-
+|[[Heroes' Quest]]||2,075|| -||{{SCP|Quest|55}}, {{SCP|Cooking|53}}, {{SCP|Fishing|53}}, {{SCP|Herblore|25}}, {{SCP|Mining|50}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} ||{{TB|Fremennik}} 
+|-
+|[[Horror from the Deep]]||4,662.5|| -||{{SCP|Agility|35}}
+|Multiple high level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[Temple of Ikov]]||10,500||{{SCP|Ranged|40|sort=yes}}||{{SCP|Thieving|42}}
+|Multiple med level NPCs
+||{{TB|Kandarin}} ||{{TB|Desert}} 
+|-
+|[[Chompy bird hat|Chompy Bird Hunting]]<br/>([[Miniquests|miniquest]])
+|30,000
+|{{SCP|Ranged|30|sort=yes}}
+|Completion of [[Big Chompy Bird Hunting]]
+|4000x Chompy Bird (level 6)
+||{{TB|Kandarin}} ||
+|-
+!Total
+!53,472.5
+! colspan="2" |
+!
+|}
+
+==={{plink|Runecraft|pic=Runecraft icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Runecraft<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[The Ascent of Arceuus]]||500|| -||20% [[Arceuus]] [[favour]]
+|Multiple low level NPCs
+||N/A||N/A
+|-
+|[[Enter the Abyss]]<br/>([[Miniquests|miniquest]])||1,000|| -|| -
+|None
+||||{{TB|Wilderness}} 
+|-
+|[[The Slug Menace]]||3,500||{{SCP|Runecraft|30|sort=yes}}||{{SCP|Crafting|30}}, {{SCP|Slayer|30}}, {{SCP|Thieving|30}}
+|[[Slug Prince]] ''(level 62)''
+||N/A||N/A
+|-
+|[[Devious Minds]]||5,000||{{SCP|Runecraft|50|sort=yes}}||{{SCP|Smithing|65}}, {{SCP|Fletching|50}}
+|[[Abyssal creature|Abyssal creatures]] level 41+ (for a large pouch)
+||{{TB|Asgarnia}} {{TB|Morytania}} {{TB|Wilderness}} ||
+|-
+|[[The Fremennik Exiles]]||5,000||{{SCP|Runecraft|55|sort=yes}}||{{SCP|Crafting|65}}, {{SCP|Slayer|60}}, {{SCP|Smithing|60}}, {{SCP|Fishing|60}}
+|Multiple high level NPCs
+||{{TB|Fremennik}} ||
+|-
+|[[Lunar Diplomacy]]||5,000|| -||{{SCP|Crafting|61}}, {{SCP|Defence|40}}, {{SCP|Firemaking|49}}, {{SCP|Herblore|5}}, {{SCP|Magic|65}}, {{SCP|Mining|60}}, {{SCP|Woodcutting|55}}
+|Multiple high level NPCs
+||||{{TB|Fremennik}} 
+|-
+|[[The Eyes of Glouphrie]]||6,000|| -||{{SCP|Construction|5}}, {{SCP|Magic|46}}, {{SCP|Woodcutting|45}}
+|[[Evil creature]] (x6)
+||||{{TB|Kandarin}} 
+|-
+|[[What Lies Below]]||8,000||{{SCP|Runecraft|35|sort=yes}}||{{SCP|Mining|42}} OR completion of [[Enter the Abyss]]
+|Multiple low level NPCs
+||{{TB|Wilderness}} ||
+|-
+!Total
+!34,000
+!colspan="2"|
+!
+|}
+
+==={{plink|Slayer|pic=Slayer icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Slayer<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Natural history quiz]]<br/>([[Miniquests|miniquest]])||1,000|| -|| -
+|None
+||{{TB|Misthalin}} ||
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing the Mountain Dwarf|Mountain Dwarf subquest]])||1,000|| -||{{SCP|Fishing|10}}
+|[[Icefiend]] ''(level 13)'' (only if you lack [[Ice gloves]])
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Animal Magnetism]]||1,000||{{SCP|Slayer|18|sort=yes}}||{{SCP|Crafting|19}}, {{SCP|Ranged|30}}, {{SCP|Woodcutting|35}}
+|None
+||{{TB|Asgarnia}} {{TB|Morytania}} ||{{TB|Fremennik}} 
+|-
+|[[A Porcine of Interest]]
+|1,000
+| -
+| -
+|[[Sourhog]] (''level 37'')
+||{{TB|Asgarnia}} ||
+|-
+|[[The General's Shadow]]<br/>([[Miniquests|miniquest]])||2,000||{{SCP|Slayer|10|sort=yes}}||{{SCP|Agility|15}}, {{SCP|Firemaking|50}}, {{SCP|Fletching|10}}, {{SCP|Herblore|10}}, {{SCP|Magic|50}}, {{SCP|Ranged|40}}, {{SCP|Smithing|20}}, {{SCP|Thieving|53}}
+|[[Bouncer (ghost)|Ghost of Bouncer]] (level 160) (cannot use Prayer)
+||N/A||N/A
+|-
+|[[Royal Trouble]]||5,000||{{SCP|Slayer|40|sort=yes}}||{{SCP|Agility|40}}, {{SCP|Farming|10}}, {{SCP|Fishing|35}}, {{SCP|Mining|30}}, {{SCP|Woodcutting|45}}
+|[[Giant Sea Snake]] ''(level 149)''
+||{{TB|Fremennik}} ||
+|-
+|[[Wanted!]]||5,000|| -||{{SCP|Quest|32}}, {{SCP|Agility|13}}, {{SCP|Mining|17}}, {{SCP|Thieving|13}}
+|Multiple low level NPCs
+||{{TB|Asgarnia}} {{TB|Morytania}} {{TB|Wilderness}} ||
+|-
+|[[Lair of Tarn Razorlor]]<br/>([[Miniquests|miniquest]])||5,000||{{SCP|Slayer|40|sort=yes}}||{{SCP|Agility|15}}, {{SCP|Crafting|35}}
+|Level 69 mutant [[Tarn]], followed by a level 69 ghost [[Tarn]]
+||{{TB|Morytania}} ||
+|-
+|[[The Fremennik Exiles]]||15,000||{{SCP|Slayer|60|sort=yes}}||{{SCP|Crafting|65}}, {{SCP|Smithing|60}}, {{SCP|Fishing|60}}, {{SCP|Runecraft|55}}
+|Multiple high level NPCs
+||{{TB|Fremennik}} ||
+|-
+|[[Monkey Madness II]]||25,000||{{SCP|Slayer|69|sort=yes}}||{{SCP|Agility|55}}, {{SCP|Construction|5}}, {{SCP|Cooking|70}}, {{SCP|Crafting|70}}, {{SCP|Firemaking|60}}, {{SCP|Hunter|60}}, {{SCP|Magic|46}}, {{SCP|Thieving|55}}
+|Multiple high level NPCs
+||||{{TB|Kandarin}} 
+|-
+!Total
+!61,000
+!colspan="2"|
+!
+|}
+
+==={{plink|Smithing|pic=Smithing icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Smithing<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[The Forsaken Tower]]||500|| -||20% [[Lovakengj]] [[favour]]
+|None
+||N/A||N/A
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing Pirate Pete|Pirate Pete subquest]])||1,000|| -||{{SCP|Cooking|31}}
+|Multiple low level NPCs
+||{{TB|Kandarin}} ||{{TB|Morytania}} 
+|-
+|[[Heroes' Quest]]||2,257|| -||{{SCP|Quest|55}}, {{SCP|Cooking|53}}, {{SCP|Fishing|53}}, {{SCP|Herblore|25}}, {{SCP|Mining|50}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} ||{{TB|Fremennik}} 
+|-
+|[[The Giant Dwarf]]||2,500|| -||{{SCP|Thieving|14}}, {{SCP|Crafting|12}}, {{SCP|Firemaking|16}}, {{SCP|Magic|33}}
+|None
+||{{TB|Asgarnia}} {{TB|Fremennik}} ||
+|-
+|[[Between a Rock...]]||5,000||{{SCP|Smithing|50|sort=yes}}||{{SCP|Defence|30}}, {{SCP|Mining|40}}
+|Multiple high level NPCs
+||{{TB|Asgarnia}} {{TB|Fremennik}} {{TB|Kandarin}} ||
+|-
+|[[Elemental Workshop I]]||5,000||{{SCP|Smithing|20|sort=yes}}||{{SCP|Mining|20}}, {{SCP|Crafting|20}}
+|[[Earth elemental]] ''(level 35)''
+||||{{TB|Misthalin}} 
+|-
+|[[Devious Minds]]||6,500||{{SCP|Smithing|65|sort=yes}}||{{SCP|Runecraft|50}}, {{SCP|Fletching|50}}
+|[[Abyssal creature|Abyssal creatures]] level 41+ (for a large pouch)
+||{{TB|Asgarnia}} {{TB|Morytania}} {{TB|Wilderness}} ||
+|-
+|[[Cabin Fever]]||7,000||{{SCP|Smithing|50|sort=yes}}||{{SCP|Agility|42}}, {{SCP|Crafting|45}}, {{SCP|Ranged|40}}
+|[[Pirate|Pirates]] ''(level 57)''
+||||{{TB|Morytania}} 
+|-
+|[[Elemental Workshop II]]||7,500||{{SCP|Smithing|30|sort=yes}}||{{SCP|Magic|20}}
+|(If you do not have the elemental metal bars) 2 [[Earth elemental|Earth elementals]] ''(level 35)''
+||{{TB|Kandarin}} ||
+|-
+|[[The Knight's Sword]]||12,725|| -||{{SCP|Mining|10}}
+|None
+||{{TB|Asgarnia}} ||
+|-
+|[[Song of the Elves]]||20,000||{{SCP|Smithing|70|sort=yes}}||{{SCP|Agility|70}}, {{SCP|Construction|70}}, {{SCP|Farming|70}}, {{SCP|Herblore|70}}, {{SCP|Hunter|70}}, {{SCP|Mining|70}}, {{SCP|Woodcutting|70}}
+|Multiple high level NPCs
+||||{{TB|Tirannwn}} 
+|-
+|[[Dragon Slayer II]]||25,000||{{SCP|Smithing|70|sort=yes}}||{{SCP|Quest|200}}, {{SCP|Magic|75}}, {{SCP|Mining|68}}, {{SCP|Crafting|62}}, {{SCP|Agility|60}}, {{SCP|Thieving|60}}, {{SCP|Construction|50}}, {{SCP|Hitpoints|50}}
+|Multiple high level NPCs
+||||{{TB|Fremennik}} 
+|-
+!Total
+!94,982
+!colspan="2"|
+!
+|}
+
+==={{plink|Strength|pic=Strength icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Strength<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[In Search of the Myreque]]||600|| -||{{SCP|Agility|25}}
+|
+||||{{TB|Morytania}} 
+|-
+|[[In Aid of the Myreque]]||2,000|| -||{{SCP|Crafting|25}}, {{SCP|Mining|15}}, {{SCP|Magic|7}}
+|
+||||{{TB|Morytania}} 
+|-
+|[[Tai Bwo Wannai Trio]]||2,500|| -||{{SCP|Agility|15}}, {{SCP|Cooking|30}}, {{SCP|Fishing|5}}
+|
+||{{TB|Misthalin}} {{TB|Karamja}} ||
+|-
+|[[The Fremennik Trials]]||2,812|| -||-
+|
+||||{{TB|Fremennik}} 
+|-
+|[[Heroes' Quest]]||3,075|| -||{{SCP|Quest|55}}, {{SCP|Cooking|53}}, {{SCP|Fishing|53}}, {{SCP|Herblore|25}}, {{SCP|Mining|50}}
+|
+||{{TB|Asgarnia}} ||{{TB|Fremennik}} 
+|-
+|[[Troll Romance]]||4,000|| -||{{SCP|Agility|28}}
+|
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Horror from the Deep]]||4,662.5|| -||{{SCP|Agility|35}}
+|
+||||{{TB|Fremennik}} 
+|-
+|[[Scorpion Catcher]]||6,625|| -||{{SCP|Prayer|31}}
+|
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||{{TB|Fremennik}} 
+|-
+|[[Roving Elves]]||10,000|| -||{{SCP|Agility|56}}
+|
+||||{{TB|Tirannwn}} 
+|-
+|[[Waterfall Quest]]||13,750|| -|| -
+|
+||{{TB|Kandarin}} ||{{TB|Desert}} {{TB|Fremennik}} {{TB|Tirannwn}} 
+|-
+|[[Dragon Slayer]]||18,650|| -||{{SCP|Quest|32}}
+|Elvarg ''(Level 83)''  
+||||{{TB|Misthalin}} 
+|-
+|[[Camelot training room]]<br/>([[Minigames|minigame]])||20,000|| -||{{SCP|Magic|45}}, {{SCP|Defence|65}}
+|
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Haunted Mine]]||22,000|| -||{{SCP|Agility|15}}, {{SCP|Crafting|35}}
+|Treus Dayth ''(Level 95)''
+||{{TB|Morytania}} ||
+|-
+!Total
+!110,674.5
+!colspan="2"|
+!
+|}
+
+==={{plink|Thieving|pic=Thieving icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Thieving<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Tower of Life]]||500|| -||{{SCP|Construction|10}}
+|
+||{{TB|Kandarin}} ||
+|-
+|[[Creature of Fenkenstrain]]||1,000||{{SCP|Thieving|25}}||{{SCP|Crafting|20}}
+|
+||||{{TB|Kandarin}} {{TB|Morytania}} 
+|-
+|[[The Golem]]||1,000||{{SCP|Thieving|25|sort=yes}}||{{SCP|Crafting|20}}
+|
+||{{TB|Desert}} ||
+|-
+|[[The Hand in the Sand]]||1,000||{{SCP|Thieving|17|sort=yes}}||{{SCP|Crafting|49}}
+|
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Spirits of the Elid]]||1,000||{{SCP|Thieving|37|sort=yes}}||{{SCP|Magic|33}}, {{SCP|Ranged|37}}, {{SCP|Mining|37}}
+|
+||{{TB|Desert}} ||
+|-
+|[[Biohazard]]||1,250|| -||[[Plague City]]
+|
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||{{TB|Fremennik}} {{TB|Tirannwn}} 
+|-
+|[[The Giant Dwarf]]||1,500||{{SCP|Thieving|14|sort=yes}}||{{SCP|Crafting|12}}, {{SCP|Firemaking|16}}, {{SCP|Magic|33}}
+|
+||{{TB|Asgarnia}} {{TB|Fremennik}} ||
+|-
+|[[Hazeel Cult]]||1,500|| -|| -
+|
+||{{TB|Kandarin}} ||
+|-
+|[[Tribal Totem]]||1,775||{{SCP|Thieving|21|sort=yes}}|| -
+|
+||{{TB|Kandarin}} ||
+|-
+|[[Death to the Dorgeshuun]]||2,000||{{SCP|Thieving|23|sort=yes}}||{{SCP|Agility|23}}
+|
+||{{TB|Asgarnia}} ||
+|-
+|[[The Queen of Thieves]]||2,000||{{SCP|Thieving|20|sort=yes}}|| 20% [[Great Kourend#Port Piscarilius|Port Piscarilius favour]]
+|
+||N/A||N/A
+|-
+|[[Fight Arena]]||2,175|| -|| -
+|
+||{{TB|Kandarin}} ||
+|-
+|[[Fairytale II - Cure a Queen]]||2,500||{{SCP|Thieving|40|sort=yes}}||{{SCP|Farming|49}}, {{SCP|Herblore|57}}
+|
+||||{{TB|Misthalin}} 
+|-
+|[[The Fremennik Trials]]||2,812|| -||{{SCP|crafting}}40, {{SCP|woodcutting}}40, {{SCP|fletching}}25
+|
+||||{{TB|Fremennik}} 
+|-
+|[[The Slug Menace]]||3,500||{{SCP|Thieving|30|sort=yes}}||{{SCP|Crafting|30}}, {{SCP|Runecraft|30}}, {{SCP|Slayer|30}}
+|
+||N/A||N/A
+|-
+|[[Icthlarin's Little Helper]]||4,500|| -||[[Gertrude's Cat]], pet cat
+|[[Possessed Priest]] (level 91)
+||||{{TB|Desert}} {{TB|Fremennik}} 
+|-
+|[[Ratcatchers]]||4,500|| -||[[Gertrude's Cat]], [[Icthlarin's Little Helper]]
+|
+||N/A||N/A
+|-
+|[[Darkness of Hallowvale]]||6,000||{{SCP|Thieving|22|sort=yes}}||{{SCP|Construction|5}}, {{SCP|Mining|20}}, {{SCP|Agility|26}}, {{SCP|Crafting|32}}, {{SCP|Magic|33}}, {{SCP|Strength|40}}
+|
+||||{{TB|Morytania}} 
+|-
+|[[Grim Tales]]||6,000||{{SCP|Thieving|58|sort=yes}}||{{SCP|Farming|45}}, {{SCP|Herblore|52}}, {{SCP|Agility|59}}, {{SCP|Woodcutting|71}}
+|
+||{{TB|Asgarnia}} ||
+|-
+|[[Contact!]]||7,000|| -||[[Gertrude's Cat]], [[Icthlarin's Little Helper]], [[Prince Ali Rescue]]
+|
+||{{TB|Desert}} ||
+|-
+|[[Dragon Slayer II]]||15,000||{{SCP|Thieving|60|sort=yes}}||{{SCP|Quest|200}}, {{SCP|Magic|75}}, {{SCP|Smithing|70}}, {{SCP|Mining|68}}, {{SCP|Crafting|62}}, {{SCP|Agility|60}}, {{SCP|Construction|50}}, {{SCP|Hitpoints|50}}
+|
+||||{{TB|Fremennik}} 
+|-
+|[[The Feud]]||15,000||{{SCP|Thieving|30|sort=yes}}|| -
+|
+||{{TB|Desert}} ||{{TB|Asgarnia}} 
+|-
+|[[Monkey Madness II]]||15,000||{{SCP|Thieving|55|sort=yes}}||{{SCP|Slayer|69}}, {{SCP|Crafting|70}}, {{SCP|Hunter|60}}, {{SCP|Agility|55}}
+|
+||||{{TB|Kandarin}} 
+|-
+|[[Mourning's End Part I]]||25,000||{{SCP|Thieving|50|sort=yes}}||{{SCP|Ranged|60}}
+|
+||||{{TB|Tirannwn}} 
+|-
+!Total
+!123,512
+!colspan="2"|
+!
+|}
+
+==={{plink|Woodcutting|pic=Woodcutting icon}}===
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Woodcutting<br/>requirement
+!Other requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[Enlightened Journey]]||1,500|| -||{{SCP|Quest|20}}, {{SCP|Firemaking|20}}, {{SCP|Farming|30}}, {{SCP|Crafting|36}}
+|
+||{{TB|Asgarnia}} ||{{TB|Kandarin}} 
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Freeing Skrach Uglogwee|Skrach Uglogwee subquest]])||1,500|| -||{{SCP|Cooking|41}}, {{SCP|Firemaking|20}}
+|
+||{{TB|Kandarin}} ||
+|-
+|[[Heroes' Quest]]||1,575|| -||{{SCP|Quest|55}}, {{SCP|Cooking|53}}, {{SCP|Fishing|53}}, {{SCP|Herblore|25}}, {{SCP|Mining|50}}
+|
+||{{TB|Asgarnia}} ||{{TB|Fremennik}} 
+|-
+|[[Monk's Friend]]||2,000|| -|| -
+|
+||{{TB|Kandarin}} ||
+|-
+|[[Animal Magnetism]]||2,500||{{SCP|Woodcutting|35|sort=yes}}||{{SCP|Slayer|18}}, {{SCP|Crafting|19}}, {{SCP|Ranged|30}}
+|
+||{{TB|Asgarnia}} {{TB|Morytania}} ||{{TB|Fremennik}} 
+|-
+|[[The Eyes of Glouphrie]]||2,500||{{SCP|Woodcutting|45|sort=yes}} {{Ironman|icon}}||{{SCP|Construction|5}}, {{SCP|Magic|46}}
+|
+||||{{TB|Kandarin}} 
+|-
+|[[The Fremennik Trials]]||2,812||-||-
+|
+||||{{TB|Fremennik}} 
+|-
+|[[Icthlarin's Little Helper]]||4,000|| -|| -
+|
+||||{{TB|Desert}} {{TB|Fremennik}} 
+|-
+|[[The Fremennik Isles]]||10,000||{{SCP|Woodcutting|56|sort=yes}} {{Ironman|icon}}||{{SCP|Construction|20}}, {{SCP|Agility|40}}
+|
+||{{TB|Fremennik}} ||
+|-
+|[[Grim Tales]]||14,000||{{SCP|Woodcutting|71|sort=yes}}||{{SCP|Thieving|58}}, {{SCP|Farming|45}}, {{SCP|Herblore|52}}, {{SCP|Agility|59}}
+|
+||{{TB|Asgarnia}} ||
+|-
+|[[Song of the Elves]]||20,000||{{SCP|Woodcutting|70|sort=yes}}||{{SCP|Agility|70}}, {{SCP|Construction|70}}, {{SCP|Farming|70}}, {{SCP|Herblore|70}}, {{SCP|Hunter|70}}, {{SCP|Mining|70}}, {{SCP|Smithing|70}}
+|
+||||{{TB|Tirannwn}} 
+|-
+!Total
+!62,387
+!colspan="2"|
+!
+|}
+
+==Skill choice==
+This section lists the experience rewards that can be allotted to a skill of the player's choosing, usually in the form of a lamp or book. It is recommended putting such experience rewards on skills that are slow or expensive to train, such as [[Runecraft]], [[Agility]], [[Construction]], or [[Herblore]].
+
+<!--Quests are organised by least to most cumulative experience; quests with the same experience rewards are organised alphabetically-->
+:{| class="wikitable sortable lighttable" style="text-align:center;"
+!Quest
+!Experience<br/>reward
+!Skills available
+!Skill requirements
+!Enemy to defeat
+!Trailblazer area requirements
+!Trailblazer auto unlock (no experience)
+|-
+|[[X Marks the Spot]]||300||Any|| -
+|
+||{{TB|Asgarnia}} ||
+|-
+|[[Client of Kourend]]||500 twice||Any|| -
+|
+||N/A||N/A
+|-
+|[[Fairytale II - Cure a Queen]]||2,500|| Any skill above 30||{{SCP|Farming|49}}, {{SCP|Herblore|57}}
+|
+||||{{TB|Misthalin}} 
+|-
+|[[A Tail of Two Cats]]||2,500 twice|| Any skill above 30|| -
+|
+||{{TB|Asgarnia}} {{TB|Desert}} ||{{TB|Fremennik}} 
+|-
+|[[The Great Brain Robbery]]||5,000|| Any skill above 30||{{SCP|Crafting|16}}, {{SCP|Construction|30}}, {{SCP|Prayer|50}}
+|
+||||{{TB|Morytania}} 
+|-
+|[[King's Ransom]]||5,000|| Any skill above 50||{{SCP|Defence|65}}
+|
+||{{TB|Asgarnia}} {{TB|Kandarin}} ||
+|-
+|[[Darkness of Hallowvale]]||2,000 three times|| Any skill above 30||{{SCP|construction|5}}, {{SCP|mining|20}}, {{SCP|thieving|22}}, {{SCP|crafting|32}}, {{SCP|magic|33}}, {{SCP|strength|40}}
+|
+||||{{TB|Morytania}} 
+|-
+|[[A Taste of Hope]]||2,500 three times||Any skill above 35||{{SCP|Crafting|48}}, {{SCP|Herblore|40}}, {{SCP|Attack|40}}, {{SCP|Agility|45}}, {{SCP|Slayer|38}}
+|
+||{{TB|Morytania}} ||
+|-
+|[[The Tourist Trap]]||4,650 twice||{{SCP|Agility}} {{SCP|Fletching}} {{SCP|Smithing}} {{SCP|Thieving}} ||{{SCP|Fletching|10}}, {{SCP|Smithing|20}}
+|
+||||{{TB|Desert}} 
+|-
+|[[Architectural Alliance]]<br/>([[Miniquests|miniquest]])||10,000||Any skill above 40 || -
+|
+||N/A||N/A
+|-
+|[[In Search of Knowledge]]<br/>([[Miniquests|miniquest]])
+|10,000
+|Any skill above 40
+| -
+|
+||N/A||N/A
+|-
+|[[Curse of the Empty Lord]]<br/>([[Miniquests|miniquest]])||10,000|| Any skill above 50||Some players will need {{SCP|prayer|31}}
+|
+||N/A||N/A
+|-
+|[[Shadow of the Storm]]||10,000||{{SCP|Attack}} {{SCP|Strength}} {{SCP|Defence}} {{SCP|Magic}} {{SCP|Ranged}} {{SCP|Hitpoints}}||{{SCP|Crafting|30}}
+|
+||{{TB|Desert}} ||
+|-
+|[[Contact!]]||7,000 twice||{{SCP|Attack}} {{SCP|Strength}} {{SCP|Defence}} {{SCP|Magic}} {{SCP|Ranged}} {{SCP|Hitpoints}}|| -
+|
+||{{TB|Desert}} ||
+|-
+|[[Dream Mentor]]||15,000||{{SCP|Strength}} {{SCP|Defence}} {{SCP|Magic}} {{SCP|Ranged}} {{SCP|Hitpoints}} ||{{SCP|Agility|32}}, {{SCP|Combat|85}}, {{SCP|Crafting|61}}, {{SCP|Defence|40}}, {{SCP|Firemaking|49}},<br/>{{SCP|Herblore|5}}, {{SCP|Magic|65}}, {{SCP|Mining|60}}, {{SCP|Woodcutting|55}}
+|
+||||{{TB|Fremennik}} 
+|-
+|[[The Fremennik Isles]]||10,000 twice||{{SCP|Attack}} {{SCP|Strength}} {{SCP|Defence}} {{SCP|Hitpoints}} ||{{SCP|Construction|20}}, {{SCP|Agility|40}}
+|
+||{{TB|Fremennik}} ||
+|-
+|[[One Small Favour]]||10,000 twice|| Any skill above 30||{{SCP|Agility|36}}, {{SCP|Crafting|25}}, {{SCP|Herblore|18}}, {{SCP|Smithing|30}}
+|
+||||{{TB|Kandarin}} 
+|-
+|[[Recipe for Disaster]]<br/>([[Recipe for Disaster/Defeating the Culinaromancer|The final battle]])||20,000|| Any skill above 50||{{SCP|Quest|175}}, {{SCP|Cooking|70}}, {{SCP|Agility|48}}, {{SCP|Mining|50}}, {{SCP|Fishing|53}},<br/>{{SCP|Thieving|53}}, {{SCP|Herblore|25}}, {{SCP|Magic|59}}, {{SCP|Smithing|40}}, {{SCP|Firemaking|50}},<br/>{{SCP|Ranged|40}}, {{SCP|Crafting|40}}, {{SCP|Fletching|10}}, {{SCP|Slayer|10}}, {{SCP|Woodcutting|36}}
+|
+||N/A||N/A
+|-
+|[[Legends' Quest]]||7,650 four times||{{SCP|Attack}} {{SCP|Strength}} {{SCP|Defence}} {{SCP|Magic}} {{SCP|Hitpoints}} {{SCP|Prayer}}<br/>{{SCP|Woodcutting}} {{SCP|Crafting}} {{SCP|Smithing}} {{SCP|Herblore}} {{SCP|Agility}} {{SCP|Thieving}}||{{SCP|Quest|107}}, {{SCP|Agility|50}}, {{SCP|Crafting|50}}, {{SCP|Herblore|45}}, {{SCP|Magic|56}}, {{SCP|Mining|52}},<br/>{{SCP|Prayer|42}}, {{SCP|Smithing|50}}, {{SCP|Strength|50}}, {{SCP|Thieving|50}}, {{SCP|Woodcutting|50}}
+|
+||||{{TB|Fremennik}} 
+|-
+|[[Monkey Madness I]]||35,000 & 20,000<ref>35,000 experience is granted to the chosen pair of skills, and 20,000 is granted to the pair of skills not chosen.</ref>||{{SCP|Attack}} {{SCP|Defence}} & {{SCP|Strength}} {{SCP|Hitpoints}}|| -
+|
+||||{{TB|Kandarin}} 
+|-
+|[[Sins of the Father]]||15,000 three times|| Any skill above 60||{{SCP|Woodcutting|62}}, {{SCP|Fletching|60}}, {{SCP|Crafting|56}}, {{SCP|Agility|52}}, {{SCP|Slayer|50}}, {{SCP|Attack|50}}, {{SCP|Magic|49}}
+|
+||{{TB|Morytania}} ||
+|-
+|[[Dragon Slayer II]]||25,000 four times||{{SCP|Attack}} {{SCP|Strength}} {{SCP|Defence}} {{SCP|Magic}} {{SCP|Ranged}} {{SCP|Hitpoints}} ||{{SCP|Quest|200}}, {{SCP|Magic|75}}, {{SCP|Smithing|70}}, {{SCP|Mining|68}}, {{SCP|Crafting|62}},<br/>{{SCP|Agility|60}}, {{SCP|Thieving|60}}, {{SCP|Construction|50}}, {{SCP|Hitpoints|50}}
+|
+||||{{TB|Fremennik}} 
+|-
+|[[Monkey Madness II]]||50,000 twice||{{SCP|Attack}} {{SCP|Strength}} {{SCP|Defence}} {{SCP|Magic}} {{SCP|Ranged}} {{SCP|Hitpoints}} ||{{SCP|Slayer|69}}, {{SCP|Crafting|70}}, {{SCP|Hunter|60}}, {{SCP|Agility|55}}, {{SCP|Thieving|55}}, {{SCP|Firemaking|60}}
+|
+||||{{TB|Kandarin}} 
+|-
+!Total
+!484,700
+!colspan="2"|
+!
+|}
+{{reflist}}
+
+==Other==
+*[[Observatory Quest]] - 875 experience in [[Attack]], [[Strength]], [[Defence]], or [[Hitpoints]] is a possible reward from completing the quest, depending on the constellation players observe, which is random. Some constellations do not give experience in any skill but give items instead.
+*The [[Varrock Museum]] - After completing a specific set of quests, players can speak to [[Historian Minas]] to inform him of their endeavours and their discoveries during these quests. Players will receive [[Kudos]] in addition to lamps which grant experience in a skill of the player's choosing.
+
+==Trivia==
+*The [[Waterfall Quest]] grants the most [[experience]] for any [[quest]] with no requirements, which allows a player to level up both their [[Attack]] and [[Strength]] from level 1 to level 30.
+
+==See also==
+*Quest experience rewards (F2P) (experience rewards page for free to play quests)
+*[[Quest skill requirements]] ([[Skills|skill]] levels required to begin or complete [[quests]])
+*[[Experience]] (experience table from levels 1 to 99)
+[[Category:Quests]]
